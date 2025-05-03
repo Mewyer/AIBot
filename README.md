@@ -45,7 +45,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-repo/ai-telegram-bot.git](https://github.com/Mewyer/AIBot)
+   git clone https://github.com/Mewyer/AIBot
    cd ai-telegram-bot
    ```
 2. Установите зависимости 
